@@ -1,0 +1,21 @@
+body{
+    margin-top: 200px;
+    height: 100vh;
+    background: #000000;
+}
+#clockDisplay{
+    margin:0px auto;
+    width: 400px;
+    background-color: #1E1E1E;
+    height: 100px;
+    padding:6px;
+    color: #2ed9f7;
+    text-align: center;
+    font-size:60px;
+    box-shadow: 0 20px 30px rgba(0,0,0,0.2);
+    border: 5px solid #ededee;
+    padding-top: 30px;
+    letter-spacing:2px;
+    font-family: "Helvetica Neue";
+    
+}
