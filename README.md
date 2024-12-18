@@ -1,5 +1,8 @@
 Hank's Portfolio
-Welcome to the source code of my personal portfolio website. This project showcases my skills as a Full-Stack Developer, providing details about me, my skills, projects, and a dynamic digital clock feature.
+Welcome to the source code of my personal portfolio website. 
+This project showcases my skills as a Full-Stack Developer, 
+providing details about me, my skills, projects, 
+and a dynamic digital clock feature.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Technologies Used
 HTML5
@@ -7,7 +10,8 @@ CSS3 (with multiple stylesheets for modularity)
 base.css: Basic styles and resets.
 main.css: Typography, layout, and responsive design.
 hp.css: Styles specific to the clock display feature.
-JavaScript
+JavaScript[Hank.docx](https://github.com/user-attachments/files/18187634/Hank.docx)
+
 hp.js: JavaScript code for the real-time digital clock.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 Project Structure
