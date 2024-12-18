@@ -1,4 +1,5 @@
 Hank's Portfolio
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Welcome to the source code of my personal portfolio website. 
 This project showcases my skills as a Full-Stack Developer, 
 providing details about me, my skills, projects, 
@@ -13,20 +14,6 @@ hp.css: Styles specific to the clock display feature.
 JavaScript
 
 hp.js: JavaScript code for the real-time digital clock.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📂 Project Structure
-
-project-root/
-├── index.html
-├── css/
-│   ├── base.css
-│   ├── main.css
-│   └── hp.css
-├── js/
-│   └── hp.js
-├── images/
-│   └── (Your images like H.jpg, FSH.jpg, etc.)
-└── README.md
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📝 File Descriptions
 index.html
